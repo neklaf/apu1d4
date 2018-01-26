@@ -1,7 +1,7 @@
 # apu1d4
 This repository is used just to store APU1D4 documents.
 
-##APU1D4 specifications:
+## APU1D4 specifications:
 
 - Mainboard: APU ALIX Engines APU.1D4
 - CPU: 1 GHz AMD G-Series T40E APU Dual core
