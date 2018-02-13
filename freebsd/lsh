@@ -1,0 +1,7 @@
+#!/usr/local/bin/bash
+# To prevent the user can't kill us by pressing Ctrl-C, Ctrl-z ...
+trap : 2
+trap : 3
+trap : 4
+export SHELL=/bin/sh
+/usr/local/bin/bash -c '/usr/local/bin/screen -m -T xterm-256color -s /usr/local/bin/bash -L -Logfile PATH_TO_LOG_FILES/${LOGNAME}_`date +%Y%m%d-%H:%M:%S`.log'
