@@ -1,6 +1,9 @@
 # apu1d4
 This repository is used just to store APU1D4 documents.
 
+## APU1D4 personal tutorials:
+[Personal Tutorials](https://neklaf.wordpress.com/category/pfsense/)
+
 ## APU1D4 specifications:
 
 - Mainboard: APU ALIX Engines APU.1D4
